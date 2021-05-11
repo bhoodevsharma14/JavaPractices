@@ -1,0 +1,20 @@
+package com.javapractice;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+<<<<<<< HEAD
+        System.out.println( "Hello World! From Local Repository" );
+
+=======
+        System.out.println( "Hello World! from Remote Repository " );
+        
+>>>>>>> c35d1623aa27da770fc136d7dd727117402165c4
+    }
+}
