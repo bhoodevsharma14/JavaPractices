@@ -1,0 +1,14 @@
+2021-05-11 13:46:26,173 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-11 13:51:55,718 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Bridgelabz Felloship classes\Java Projects\Projects\Day 2\JavaPractice\pom.xml
+2021-05-11 13:52:02,036 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:JavaPractice:0.0.1-SNAPSHOT @ E:\Bridgelabz Felloship classes\Java Projects\Projects\Day 2\JavaPractice\pom.xml.
+2021-05-11 13:52:03,382 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaPractice/src/main/java
+2021-05-11 13:52:03,385 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaPractice/src/test/java
+2021-05-11 13:52:05,649 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2021-05-11 13:52:07,807 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-11 13:52:07,808 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bridgelabz Felloship classes\Java Projects\Projects\Day 2\JavaPractice\src\main\resources
+2021-05-11 13:52:07,812 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-11 13:52:07,812 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bridgelabz Felloship classes\Java Projects\Projects\Day 2\JavaPractice\src\test\resources
+2021-05-11 13:54:44,492 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-11 13:54:44,493 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bridgelabz Felloship classes\Java Projects\Projects\Day 2\JavaPractice\src\main\resources
+2021-05-11 13:54:44,494 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-11 13:54:44,495 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bridgelabz Felloship classes\Java Projects\Projects\Day 2\JavaPractice\src\test\resources
