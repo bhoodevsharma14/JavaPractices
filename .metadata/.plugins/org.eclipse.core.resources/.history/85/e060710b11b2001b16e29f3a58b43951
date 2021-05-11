@@ -1,0 +1,30 @@
+package com.javapractice;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+	private static final Logger Log = LogManager.getLogger(App.class);
+	
+    public static void main( String[] args )
+    {
+        String message="hello, world";
+        Log.debug(message + " Will print on Debug");
+        Log.info(message + " Will print on Info");
+        Log.warn(message + " Will print on Warn");
+        Log.error(message + " Will print on Error");
+        Log.fatal(message + " Will print on Fatal");
+        Log.info("Appending String : {}.",message);
+<<<<<<< HEAD
+        System.out.println(message + " Nothing is changed");
+=======
+        System.out.println(message + " Some changes");
+>>>>>>> 83dfaf890d76018d8ed5446a5730a8175b388ee6
+        
+    }
+}
+	
