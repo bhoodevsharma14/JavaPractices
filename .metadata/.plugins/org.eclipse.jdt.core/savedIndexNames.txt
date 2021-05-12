@@ -1,7 +1,0 @@
-INDEX VERSION 1.131+E:\Bridgelabz Felloship classes\Day 1\Projects\.metadata\.plugins\org.eclipse.jdt.core
-1808637612.index
-1631785359.index
-292365520.index
-2226992936.index
-2092196764.index
-2733893554.index
